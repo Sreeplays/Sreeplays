@@ -9,11 +9,14 @@ Here are the list of languages, databases, codespaces I use 🔥🔥:
 - JAVA(somewhat good)
 - CSS
 - PYTHON
+
 Databases used for backend 
 - SPRING BOOT (based on java)
 - MYSql
-For testing
+
+For testing backend
 - POSTMAN
+
 Codespaces I use 
 - Visual studio code
 - PyCharm
