@@ -3,7 +3,7 @@
 
 # Hi, I'm Sriram! 👋
 
-#### I am a currated and enthusiastic web developer
+#### I am a currated and an enthusiastic web developer
 
 ![GitHub User's stars](https://img.shields.io/github/stars/Sreeplays)
 
