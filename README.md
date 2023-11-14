@@ -1,9 +1,10 @@
 
 #### 🚀 About Me
 
+
 # Hi, I'm Sriram! 👋
 
-#### I am a currated and an enthusiastic web developer
+#### I am a currated and enthusiastic web developer
 
 ![GitHub User's stars](https://img.shields.io/github/stars/Sreeplays)
 
@@ -29,9 +30,12 @@
 #### Connect with me !!!
 [![Instagram](https://img.shields.io/badge/Instagram-fa7e1e?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__miichio)
 
-[![Twitter](https://img.shields.io/badge/Twitter-4f5bd5?style=for-the-badge&logo=twitter&logoColor=white)](https://instagram.com/__miichio)
+[![Twitter](https://img.shields.io/badge/Twitter-4f5bd5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SriramS2008)
 
-[![Twitter](https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](https://instagram.com/__miichio)
+[![Gmail](https://img.shields.io/badge/GMail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTNqVlnzZcXTkQRhKpSrTmcLxbjtvwSzCPdVHwJJWsvJHLQDSVFMHBbdpQZLkJrhLfhJdq)
+
+#### To read My Blogs on programming.
+[![Threads](https://img.shields.io/badge/Threads-4f5bd5?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@__miichio)
 
 
 ## 🛠 Skills
